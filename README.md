@@ -13,8 +13,8 @@ Lieciet botam darboties īpašos kanālos
 ##Backlog
 GITHUB, discord servers, bota programma, 
 ##to do
-GITHUB,  PUBLIC SERVERS 
+ 
 ##in progress
  
 ##Done
-github
+github, PUBLIC SERVERS 
