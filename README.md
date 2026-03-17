@@ -16,5 +16,5 @@ GITHUB, discord servers, bota programma,
  
 ##in progress
  
-##Done
+##Done :)
 github, PUBLIC SERVERS 
